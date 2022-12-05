@@ -1,0 +1,15 @@
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Console_Ekranı\Console_Ekranı\Console_Ekranı\bin\Debug\net6.0\Console_Ekranı.exe
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Console_Ekranı\Console_Ekranı\Console_Ekranı\bin\Debug\net6.0\Console_Ekranı.deps.json
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Console_Ekranı\Console_Ekranı\Console_Ekranı\bin\Debug\net6.0\Console_Ekranı.runtimeconfig.json
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Console_Ekranı\Console_Ekranı\Console_Ekranı\bin\Debug\net6.0\Console_Ekranı.dll
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Console_Ekranı\Console_Ekranı\Console_Ekranı\bin\Debug\net6.0\Console_Ekranı.pdb
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Console_Ekranı\Console_Ekranı\Console_Ekranı\obj\Debug\net6.0\Console_Ekranı.csproj.AssemblyReference.cache
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Console_Ekranı\Console_Ekranı\Console_Ekranı\obj\Debug\net6.0\Console_Ekranı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Console_Ekranı\Console_Ekranı\Console_Ekranı\obj\Debug\net6.0\Console_Ekranı.AssemblyInfoInputs.cache
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Console_Ekranı\Console_Ekranı\Console_Ekranı\obj\Debug\net6.0\Console_Ekranı.AssemblyInfo.cs
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Console_Ekranı\Console_Ekranı\Console_Ekranı\obj\Debug\net6.0\Console_Ekranı.csproj.CoreCompileInputs.cache
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Console_Ekranı\Console_Ekranı\Console_Ekranı\obj\Debug\net6.0\Console_Ekranı.dll
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Console_Ekranı\Console_Ekranı\Console_Ekranı\obj\Debug\net6.0\refint\Console_Ekranı.dll
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Console_Ekranı\Console_Ekranı\Console_Ekranı\obj\Debug\net6.0\Console_Ekranı.pdb
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Console_Ekranı\Console_Ekranı\Console_Ekranı\obj\Debug\net6.0\Console_Ekranı.genruntimeconfig.cache
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Console_Ekranı\Console_Ekranı\Console_Ekranı\obj\Debug\net6.0\ref\Console_Ekranı.dll
